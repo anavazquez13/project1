@@ -37,3 +37,6 @@ Used Maven as a project management tool to handle dependencies inside the applic
 * Managers can view a 'statistics' page. That includes information like what employee spends the most money, mean expenditure cost etc...
 
 
+## Getting Started
+
+git clone https://github.com/anavazquez13/project1.git
